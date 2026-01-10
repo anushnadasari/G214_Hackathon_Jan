@@ -1,0 +1,8 @@
+
+{
+  "name": "EcoWear Marketplace",
+  "description": "A sustainable fashion marketplace connecting conscious buyers with ethical brands, featuring transparent eco-scoring, seller portals, and greenwashing detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
