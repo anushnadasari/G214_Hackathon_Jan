@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g214-hackathon-jan.vercel.app/sitemap.xml
